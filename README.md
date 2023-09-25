@@ -2,7 +2,7 @@
 # Bem vindo ao meu perfil! 👋💻
 <br><br>
 <br><br>
-### <div align="center">Meu nome é Filipe Carvalho💻, desenvolver backend iniciando sua jornada nesse mundo!🚀</div>
+### <div align="center" color="blue">Meu nome é Filipe Carvalho💻, desenvolver backend iniciando sua jornada nesse mundo!🚀</div>
 <!-- Background -->
 <br><br>
 
