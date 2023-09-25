@@ -3,7 +3,7 @@
 
 <!-- Background -->
 
-<img align="center" alt="Coding" width="100%" src= "https://s4.aconvert.com/convert/p3r68-cdx67/aqd1p-jhctn.jpg">
+<img align="center" alt="Coding" width="100%" src= "https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg">
 <!-- Introduction -->
 
 ## **Visão Geral 👉**
