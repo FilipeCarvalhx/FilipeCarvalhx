@@ -3,7 +3,7 @@
 
 <!-- Background -->
 
-![Techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
+<img align="center" alt="Coding" width="400" src= "https://t4.ftcdn.net/jpg/05/54/47/79/360_F_554477926_yKEcMeDTD1oLqKQCjvpryeT5zHLMunNh.jpg">
 <!-- Introduction -->
 
 ## **Visão Geral 👉**
