@@ -3,7 +3,7 @@
 
 <!-- Background -->
 
-<img align="center" alt="Coding" width="100%" src= "file:///C:/Users/filip/Downloads/rep2.png">
+<img align="center" alt="Coding" width="100%" src= "https://s4.aconvert.com/convert/p3r68-cdx67/aqd1p-jhctn.jpg">
 <!-- Introduction -->
 
 ## **Visão Geral 👉**
