@@ -1,6 +1,6 @@
 <!--Title -->
 # Bem vindo ao meu perfil! 👋💻
-<p><a>Meu nome é Filipe Carvalho e souz desenvolver backend"</a></p>
+<p><a>Meu nome é Filipe Carvalho e souz desenvolver backend</a></p>
 <!-- Background -->
 <br><br>
 
