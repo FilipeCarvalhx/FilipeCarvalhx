@@ -3,7 +3,7 @@
 
 <!-- Background -->
 <br><br>
-<img align="center" alt="Coding" width="100%" src= "https://s4.aconvert.com/convert/p3r68-cdx67/a0d1l-r3fhq.png">
+
 <!-- Introduction -->
 
 ## **Visão Geral 👉**
