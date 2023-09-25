@@ -3,7 +3,8 @@
 
 <!-- Background -->
 
-![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
+![techstack](![image](https://github.com/FilipeCarvalhx/FilipeCarvalhx/assets/140094177/96cb5cf2-d275-4b65-a44b-313009f87fc9)
+)
 
 <!-- Introduction -->
 
