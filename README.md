@@ -3,7 +3,7 @@
 
 <!-- Background -->
 
-<img align="center" alt="Coding" width="700" src= "https://t4.ftcdn.net/jpg/05/54/47/79/360_F_554477926_yKEcMeDTD1oLqKQCjvpryeT5zHLMunNh.jpg">
+<img align="center" alt="Coding" width="100%" src= "file:///C:/Users/filip/Downloads/rep2.png">
 <!-- Introduction -->
 
 ## **Visão Geral 👉**
