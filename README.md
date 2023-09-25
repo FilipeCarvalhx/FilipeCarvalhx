@@ -2,7 +2,7 @@
 # Bem vindo ao meu perfil! 👋💻
 
 <!-- Background -->
-
+<br>
 <img align="center" alt="Coding" width="100%" src= "https://s4.aconvert.com/convert/p3r68-cdx67/aceqy-3826g.png">
 <!-- Introduction -->
 
