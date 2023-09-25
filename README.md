@@ -3,7 +3,7 @@
 
 <!-- Background -->
 
-![techstack](![image](https://github.com/FilipeCarvalhx/FilipeCarvalhx/assets/140094177/96cb5cf2-d275-4b65-a44b-313009f87fc9)
+![techstack]()
 )
 
 <!-- Introduction -->
