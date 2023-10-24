@@ -1,7 +1,5 @@
 <!--Title -->
-### <div align="center">Filipe Carvalho desenvolvedor backend iniciando sua jornada nesse mundo!🚀</div>
-
-<!-- Introduction -->
+### <div align="center">Filipe Carvalho, desenvolvedor backend, iniciando sua jornada nesse mundo!🚀</div>
 
 ## **Visão Geral 👉**
 
@@ -9,8 +7,6 @@
 primeira oportunidade para aprimoramento das habilidades em desenvolvimento de software.Já construi alguns sistemas backend usando node javascript e alguns layouts usando HTML,CSS E javascript.</p>
 <br><br>
 
-
-</div>
 
 <br><br>
 ## **Skills 🚀**
