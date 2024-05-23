@@ -1,5 +1,5 @@
 <!--Title -->
-### <div align="center">Filipe Carvalho, desenvolvedor backend, iniciando sua jornada nesse mundo!🚀</div>
+### <div align="center">Filipe Carvalho, desenvolvedor Frontend, iniciando sua jornada nesse mundo!🚀</div>
 
 ## **Visão Geral 👉**
 
