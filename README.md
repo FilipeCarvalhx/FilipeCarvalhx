@@ -3,7 +3,7 @@
 
 ## **Visão Geral 👉**
 
-<p>Desenvolvedor Backend motivado e disposto a aprender tecnologias novas, em busca da sua
+<p>Desenvolvedor Frontend motivado e disposto a aprender tecnologias novas, em busca da sua
 primeira oportunidade para aprimoramento das habilidades em desenvolvimento de software.Já construi alguns sistemas backend usando node javascript e alguns layouts usando HTML,CSS E javascript.</p>
 <br><br>
 
