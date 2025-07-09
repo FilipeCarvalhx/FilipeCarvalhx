@@ -1,10 +1,9 @@
 <!--Title -->
 ### <div align="center">Bem vindo ao portfólio do Filipe Carvalho🚀</div>
 
-## **Visão Geral 👉**
+## **Visão Geral 👇**
 
-<p>Desenvolvedor Frontend motivado e disposto a aprender tecnologias novas, em busca da sua
-primeira oportunidade para aprimoramento das habilidades em desenvolvimento de software.Já construi alguns sistemas backend usando node javascript e alguns layouts usando HTML,CSS E javascript.</p>
+<p>Desenvolvedor de software iniciando sua carreira no mundo da programação, estou a procura de uma oportunidade que vá alavancar minha carreira e levar a sua empresa a outro patamar, espero que goste do meu Portfólio.</p>
 <br><br>
 
 
