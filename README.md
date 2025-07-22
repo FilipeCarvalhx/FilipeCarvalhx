@@ -3,7 +3,7 @@
 
 ## **Visão Geral 👇**
 
-<p>Desenvolvedor de software iniciando sua carreira no mundo da programação, estou a procura de uma oportunidade que vá alavancar minha carreira e levar a sua empresa a outro patamar, espero que goste do meu Portfólio.</p>
+<p>Desenvolvedor de software em início de carreira, apaixonado por tecnologia e aprendizado contínuo. Busco oportunidades para crescer profissionalmente e contribuir com soluções que vão de fato alavancar o sistema. Veja meu portfólio, espero que goste!</p>
 <br><br>
 
 
